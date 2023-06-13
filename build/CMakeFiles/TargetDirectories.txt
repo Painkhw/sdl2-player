@@ -1,0 +1,7 @@
+/home/eric/Projects/Decode/ffmpeg-play/ffmpeg-sdl2-hwaccel/build/CMakeFiles/ffmpeg-player.dir
+/home/eric/Projects/Decode/ffmpeg-play/ffmpeg-sdl2-hwaccel/build/CMakeFiles/edit_cache.dir
+/home/eric/Projects/Decode/ffmpeg-play/ffmpeg-sdl2-hwaccel/build/CMakeFiles/rebuild_cache.dir
+/home/eric/Projects/Decode/ffmpeg-play/ffmpeg-sdl2-hwaccel/build/CMakeFiles/list_install_components.dir
+/home/eric/Projects/Decode/ffmpeg-play/ffmpeg-sdl2-hwaccel/build/CMakeFiles/install.dir
+/home/eric/Projects/Decode/ffmpeg-play/ffmpeg-sdl2-hwaccel/build/CMakeFiles/install/local.dir
+/home/eric/Projects/Decode/ffmpeg-play/ffmpeg-sdl2-hwaccel/build/CMakeFiles/install/strip.dir
